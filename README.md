@@ -16,7 +16,6 @@
 ![Example](https://i.ibb.co/p1pB1HR/fw.png)    
 3. **Emotion Classification**
    - Train a CNN model to classify the emotions of the generated images.
-   - 
 ## Results
 - Effective generation of diverse and realistic facial expressions.
 - High accuracy in classifying generated emotions using the CNN model.
