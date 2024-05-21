@@ -13,7 +13,7 @@
    
 2. **Emotion Generation**
    - Train a GAN model to generate facial images depicting 8 different emotions.
-![Example](https://i.ibb.co/p1pB1HR/fw.png)    
+   - ![Example](https://i.ibb.co/p1pB1HR/fw.png)    
 3. **Emotion Classification**
    - Train a CNN model to classify the emotions of the generated images.
 ## Results
